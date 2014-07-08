@@ -1,3 +1,2 @@
-.idea/
-znc_webadmin.pyc
-conf/config.json
+*.pyc
+local.py
