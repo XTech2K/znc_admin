@@ -12,4 +12,4 @@ supervisor==3.0
 txsockjs==1.2.1
 uWSGI==2.0.6
 wsgiref==0.1.2
-mako==1.0.0
+Mako==1.0.0
